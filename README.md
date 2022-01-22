@@ -2,7 +2,7 @@
 - 👀 I’m interested in geometry processing.
 - 🌱 I’m currently a CS PhD student at William and Mary.
 - 💞️ I’m looking to collaborate on geometry processing.
-- 📫 How to reach me rwhsoemaker@email.wm.edu
+- 📫 How to reach me rwshoe@cs.wm.edu
 
 <!---
 shoemarw/shoemarw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
